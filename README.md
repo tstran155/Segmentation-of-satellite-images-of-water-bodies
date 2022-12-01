@@ -9,36 +9,39 @@ https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodie
 
 The structure of this Jupyter Notebook is as follows:
 
-Prepare Problem
+1. Prepare Problem
+
 a) Load libraries
 
-b) Load dataset
+b) Load train and test dataset
 
-Summarize Data
-a) Descriptive statistics
+3. Prepare Data
 
-b) Data visualizations
+a) Scale pixels
 
-Prepare Data
-a) Data Cleaning
+4. Evaluate Models
 
-b) Split-out validation dataset
+a) Define baseline CNN models
 
-c) Data Transforms
+Built-in CNN model: Keras Sequential
 
-Evaluate Algorithms
-a) Spot check algorithms
+Pre-trained CNN model: VGG16
 
-Machine learning: Linear Regression, Random Forest, and XGBoost
+b) Train the models
 
-Deep learning: Keras Sequential neural network
+c) Make predictions and compare models
 
-b) Compare algorithms
+5. Improved baseline models
 
-Finalize Model
-a) Predictions on validation dataset (best algorithm)
+a) Baseline + Data Augmentation
+
+b) Baseline + Dropout + Data Augmentation
+
+6. Finalize Model
+
+a) Predictions on new images (improved model)
 
 b) Save the model for later use
 
-Conclusions
+7. Conclusions
 
