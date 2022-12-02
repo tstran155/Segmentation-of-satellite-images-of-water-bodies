@@ -15,11 +15,11 @@ a) Load libraries
 
 b) Load train and test dataset
 
-3. Prepare Data
+2. Prepare Data
 
 a) Scale pixels
 
-4. Evaluate Models
+3. Evaluate Models
 
 a) Define baseline CNN models
 
@@ -31,17 +31,17 @@ b) Train the models
 
 c) Make predictions and compare models
 
-5. Improved baseline models
+4. Improved baseline models
 
 a) Baseline + Data Augmentation
 
 b) Baseline + Dropout + Data Augmentation
 
-6. Finalize Model
+5. Finalize Model
 
 a) Predictions on new images (improved model)
 
 b) Save the model for later use
 
-7. Conclusions
+6. Conclusions
 
