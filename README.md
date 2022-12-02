@@ -35,9 +35,7 @@ c) Make predictions and compare models
 
 4. Improved baseline models
 
-a) Baseline + Data Augmentation
-
-b) Baseline + Dropout + Data Augmentation
+- Baseline + Data Augmentation
 
 5. Finalize Model
 
