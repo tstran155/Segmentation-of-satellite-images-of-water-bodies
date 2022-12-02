@@ -25,9 +25,9 @@ b) Split data into train and test sets
 
 a) Define baseline CNN models
 
-Built-in CNN model: Keras Sequential
+- Built-in CNN model: Keras Sequential
 
-Pre-trained CNN model: VGG16
+- Pre-trained CNN model: VGG16
 
 b) Train the models
 
