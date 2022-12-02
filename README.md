@@ -19,6 +19,8 @@ b) Load train and test dataset
 
 a) Scale pixels
 
+b) Split data into train and test sets
+
 3. Evaluate Models
 
 a) Define baseline CNN models
