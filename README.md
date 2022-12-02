@@ -25,7 +25,7 @@ b) Split data into train and test sets
 
 a) Define baseline CNN models
 
-- Built-in CNN model: Keras Sequential
+- Built-in CNN model: Pytorch Sequential
 
 - Pre-trained CNN model: ResNet-50
 
