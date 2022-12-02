@@ -27,7 +27,7 @@ a) Define baseline CNN models
 
 - Built-in CNN model: Keras Sequential
 
-- Pre-trained CNN model: VGG16
+- Pre-trained CNN model: ResNet-50
 
 b) Train the models
 
