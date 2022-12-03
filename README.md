@@ -15,17 +15,23 @@ a) Load libraries
 
 b) Load train and test dataset
 
-2. Prepare Data
+2. Summarize Data
+
+a) Descriptive statistics
+
+b) Data visualizations
+
+3. Prepare Data
 
 a) Scale pixels
 
 b) Split data into train and test sets
 
-3. Evaluate Models
+4. Evaluate Models
 
 a) Define baseline CNN models
 
-- Built-in CNN model: Pytorch Sequential
+- Pytorch CNN model
 
 - Pre-trained CNN model: ResNet-50
 
@@ -33,15 +39,15 @@ b) Train the models
 
 c) Make predictions and compare models
 
-4. Improved baseline models
+5. Improved best baseline model
 
 - Baseline + Data Augmentation
 
-5. Finalize Model
+6. Finalize Model
 
 a) Predictions on new images (improved model)
 
 b) Save the model for later use
 
-6. Conclusions
+7. Conclusions
 
