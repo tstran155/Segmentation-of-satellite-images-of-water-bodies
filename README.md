@@ -7,7 +7,7 @@ The dataset used in this work includes 2841 RGB images and 2841 black-and-white 
 
 https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodies
 
-The structure of this Jupyter Notebook is as follows:
+There are two notebooks -Keras Sequential and Pretrained Resnet50 using Pytorch- in this repository. The structure of these notebooks is as follows:
 
 1. Prepare Problem
 
