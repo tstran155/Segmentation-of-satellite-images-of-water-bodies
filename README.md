@@ -31,7 +31,7 @@ b) Split data into train and test sets
 
   Notebook 1: Keras Sequential model
 
-  Notebook 2: Pre-trained ResNet50 model in Pytorch
+  Notebook 2: Pre-trained ResNet50 model using Pytorch
 
 a) Define baseline model
 
