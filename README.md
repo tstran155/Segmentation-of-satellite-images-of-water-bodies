@@ -29,25 +29,17 @@ b) Split data into train and test sets
 
 4. Evaluate Models
 
-a) Define baseline CNN models
+a) Keras Sequential model
 
-- Pytorch CNN model
-
-- Pre-trained CNN model: ResNet-50
-
-b) Train the models
+b) Pre-trained ResNet50 model in Pytorch
 
 c) Make predictions and compare models
 
-5. Improved best baseline model
-
-- Baseline + Data Augmentation
-
-6. Finalize Model
+5. Finalize Model
 
 a) Predictions on new images (improved model)
 
 b) Save the model for later use
 
-7. Conclusions
+6. Conclusions
 
