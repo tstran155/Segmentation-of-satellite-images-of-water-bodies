@@ -29,15 +29,17 @@ b) Split data into train and test sets
 
 4. Evaluate Models
 
-a) Keras Sequential model
+  Notebook 1: Keras Sequential model
 
-b) Pre-trained ResNet50 model in Pytorch
+  Notebook 2: Pre-trained ResNet50 model in Pytorch
 
-c) Make predictions and compare models
+a) Define baseline model
+
+b) Train and make predictions
 
 5. Finalize Model
 
-a) Predictions on new images (improved model)
+a) Predictions on new images
 
 b) Save the model for later use
 
