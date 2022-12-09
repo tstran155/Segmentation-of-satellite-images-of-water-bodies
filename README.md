@@ -1,4 +1,4 @@
-# Regressiona nd prediction-of-satellite-images-of-water-bodies (work in progress!)
+# Regression and prediction-of-satellite-images-of-water-bodies (work in progress!)
 
 The dataset used in this notebook is a collection of water bodies images captured by the Sentinel-2 Satellite. Each image comes with a 
 black and white mask where white represents water. The masks were created to detect and measure vegetation in satellite images.
