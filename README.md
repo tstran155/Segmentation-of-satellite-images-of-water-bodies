@@ -13,19 +13,19 @@ There are two notebooks -Keras Sequential and Pretrained Resnet50 using Pytorch-
 
 a) Load libraries
 
-b) Load train and test dataset
+b) Load dataset
 
-2. Summarize Data
+2. Exploratory Data Analysis
 
-a) Descriptive statistics
+a) Image visualization
 
-b) Data visualizations
+b) Load and resize images
 
 3. Prepare Data
 
-a) Scale pixels
+a) Split data into train and test sets
 
-b) Split data into train and test sets
+b) Data preprocessing
 
 4. Evaluate Models
 
@@ -35,13 +35,17 @@ b) Split data into train and test sets
 
 a) Define baseline model
 
-b) Train and make predictions
+b) Fit model to data sets
 
-5. Finalize Model
+5. Improved baseline models
+
+Dropout regularization and data augmentation
+
+6. Finalize Model
 
 a) Predictions on new images
 
 b) Save the model for later use
 
-6. Conclusions
+7. Conclusions
 
