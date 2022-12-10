@@ -1,4 +1,4 @@
-# Regression and prediction-of-satellite-images-of-water-bodies (work in progress!)
+# Regression and prediction-of-satellite-images-of-water-bodies
 
 The dataset used in this notebook is a collection of water bodies images captured by the Sentinel-2 Satellite. Each image comes with a 
 black and white mask where white represents water. The masks were created to detect and measure vegetation in satellite images.
@@ -31,7 +31,7 @@ b) Data preprocessing
 
   Notebook 1: Keras Sequential model
 
-  Notebook 2: Pre-trained ResNet50 model using Pytorch
+  Notebook 2: Pre-trained ResNet50 model using Pytorch (work in progress)
 
 a) Define baseline model
 
