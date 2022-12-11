@@ -35,7 +35,7 @@ b) Data preprocessing
 
 a) Define baseline model
 
-b) Fit model to data sets
+b) Fit model to data
 
 5. Improved baseline models
 
