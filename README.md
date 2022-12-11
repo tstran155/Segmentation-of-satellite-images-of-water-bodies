@@ -39,7 +39,7 @@ b) Fit model to data sets
 
 5. Improved baseline models
 
-Dropout regularization and data augmentation
+Apply data augmentation to the images and masks
 
 6. Finalize Model
 
