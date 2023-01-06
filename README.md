@@ -31,13 +31,13 @@ b) Data preprocessing
 
   Notebook 1: Keras Sequential model
 
-  Notebook 2: Pretrained ResNet50 model using Pytorch (work in progress)
+  Notebook 2: Pretrained ResNet50 model using Pytorch
 
 a) Define baseline model
 
 b) Fit model to data
 
-5. Improved baseline models
+5. Improved baseline models (for Notebook 1 only!)
 
 Apply data augmentation to the images and masks
 
