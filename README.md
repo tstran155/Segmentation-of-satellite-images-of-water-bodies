@@ -25,7 +25,7 @@ b) Image statistics
 
 a) Data preprocessing (remove duplicates, blanks and abnormal size images)
 
-b) Split data into train and test sets
+b) Split data into train, test, and validation sets
 
 4. Evaluate Models
 
