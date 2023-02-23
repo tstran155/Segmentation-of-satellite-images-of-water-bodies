@@ -19,13 +19,13 @@ b) Load dataset
 
 a) Image visualization
 
-b) Load and resize images
+b) Image statistics
 
 3. Prepare Data
 
-a) Split data into train and test sets
+a) Data preprocessing (remove duplicates, blanks and abnormal size images)
 
-b) Data preprocessing
+b) Split data into train and test sets
 
 4. Evaluate Models
 
