@@ -23,7 +23,7 @@ b) Image statistics
 
 3. Prepare Data
 
-a) Data preprocessing (remove duplicates, blanks and abnormal size images)
+a) Data cleaning and preprocessing (remove duplicates, blanks and abnormal size images)
 
 b) Split data into train, test, and validation sets
 
